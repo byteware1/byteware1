@@ -49,32 +49,29 @@
     <img src="https://skillicons.dev/icons?i=visualstudio" height="48"/>
     <img src="https://skillicons.dev/icons?i=vite" height="48"/>
   </p>
-  <br>
   <h3>🧬 Reverse Engineering</h3>
   <p>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/binaryninja.svg" height="42"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ghidra.svg" height="42"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ida.svg" height="42"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x64dbg.svg" height="42"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotnet.svg" height="42"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/binary.png" height="42"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/Ghidra_logo.svg" height="42"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/x64.png" height="42"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/dotnet-svgrepo-com.svg" height="42"/>
   </p>
   <!-- SECURITY -->
-  <h3>🛡️ Security / Networking</h3>
+  <h3>🛡️ Security / Networking (few)</h3>
   <p>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" height="42"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" height="42"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="42"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" height="42"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/Wireshark_icon.svg" height="42"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/sitelogo-nmap.svg" height="42"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/burpsuite-security-software-svgrepo-com.svg" height="42"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/icons8-metasploit-96.png" height="42"/>
   </p>
   <h3>🖥️ OS / Virtualization</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=arch" height="48"/>
     <img src="https://skillicons.dev/icons?i=windows" height="48"/>
-    <img src="https://skillicons.dev/icons?i=virtualbox" height="48"/>
-    <img src="https://skillicons.dev/icons?i=vmware" height="48"/>
+    <img src="https://github.com/byteware1/byteware1/blob/main/assets/icons/VirtualBox_2024_Logo.svg" height="48"/>
   </p>
 </div>
-  
+  </br>
 <p align="center">
   <img src="https://img.shields.io/badge/byteware1-5A5475?style=for-the-badge&logo=github&logoColor=white" alt="Hi, I'm byteware1" />
 </p>
