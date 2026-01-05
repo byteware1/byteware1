@@ -2,8 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1f,50:1c0f3f,100:2a1b50&height=200&section=header&text=byteware1&fontSize=60&fontColor=6b6b8c&animation=fadeIn&fontAlignY=38" />
 </p>
-
-
+<p align="center" target="_blank">
+  <a href="https://skyportal.pl">
+    <img src="https://skyportal.pl/assets/logo-extended-C0dbjLQq.png" alt="Skyportal logo" width="150">
+  </a>
+</p></br>
 <h3 align="center">
   💻 Cybersecurity • Reverse Engineering • Low-level
 </h3>
