@@ -34,7 +34,7 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
 ```txt
 → Cybersecurity & offensive security enthusiast
