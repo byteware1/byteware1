@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skye7x&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff99" />
 </p>
 
 ---
